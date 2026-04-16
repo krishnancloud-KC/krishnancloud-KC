@@ -1,9 +1,6 @@
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/krishnancloud-KC/krishnancloud-KC/main/banner.svg" width="100%" alt="Krishnan C — Senior Cloud & Data Engineer"/>
-
+  <img src="https://raw.githubusercontent.com/krishnancloud-KC/krishnancloud-KC/main/krishnan-github-banner.svg" width="100%" alt="Krishnan C — Senior Cloud & Data Engineer">
 </div>
-
 ---
 
 <div align="center">
