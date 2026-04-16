@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Krishnan%20C&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Senior%20Cloud%20%26%20Data%20Engineer%20%7C%207%2B%20Years&descColor=90CAF9&descAlignY=58&descSize=18)
+<img src="https://raw.githubusercontent.com/krishnancloud-KC/krishnancloud-KC/main/banner.svg" width="100%" alt="Header"/>
 
 </div>
 
