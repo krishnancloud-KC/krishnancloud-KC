@@ -1,6 +1,53 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/krishnancloud-KC/krishnancloud-KC/main/banner.svg" width="100%" alt="Header"/>
+<svg width="100%" viewBox="0 0 680 200" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>Krishnan C — GitHub Banner</title>
+<desc>Senior Cloud and Data Engineer, Multi-Cloud, FinOps, AI</desc>
+<defs>
+<linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+<stop offset="0%" style="stop-color:#0F2027"/>
+<stop offset="50%" style="stop-color:#203A43"/>
+<stop offset="100%" style="stop-color:#2C5364"/>
+</linearGradient>
+<linearGradient id="linegrad" x1="0%" y1="0%" x2="100%" y2="0%">
+<stop offset="0%" style="stop-color:#4285F4;stop-opacity:0"/>
+<stop offset="40%" style="stop-color:#90CAF9;stop-opacity:1"/>
+<stop offset="100%" style="stop-color:#4285F4;stop-opacity:0"/>
+</linearGradient>
+</defs>
+<rect width="680" height="200" fill="url(#bg)" rx="12"/>
+<circle cx="600" cy="36" r="80" fill="#4285F4" fill-opacity="0.05"/>
+<circle cx="90" cy="178" r="60" fill="#90CAF9" fill-opacity="0.04"/>
+<text x="40" y="50" font-family="monospace" font-size="11" fill="#90CAF9" fill-opacity="0.5">$ whoami</text>
+<text x="40" y="90" font-family="sans-serif" font-size="36" font-weight="700" fill="#FFFFFF" letter-spacing="-0.5">Krishnan C</text>
+<rect x="40" y="98" width="300" height="1.5" fill="url(#linegrad)" rx="1"/>
+<text x="40" y="120" font-family="sans-serif" font-size="15" font-weight="400" fill="#90CAF9" letter-spacing="0.3">Senior Cloud &amp; Data Engineer</text>
+<text x="40" y="140" font-family="sans-serif" font-size="12" fill="#FFFFFF" fill-opacity="0.45" letter-spacing="0.5">7+ Years · Multi-Cloud · FinOps · AI/ML</text>
+<g transform="translate(40,156)">
+  <rect width="86" height="22" rx="11" fill="#4285F4" fill-opacity="0.2" stroke="#4285F4" stroke-width="0.5" stroke-opacity="0.7"/>
+  <text x="43" y="15" font-family="sans-serif" font-size="11" font-weight="500" fill="#90CAF9" text-anchor="middle">Multi-Cloud</text>
+</g>
+<g transform="translate(136,156)">
+  <rect width="102" height="22" rx="11" fill="#1D9E75" fill-opacity="0.18" stroke="#1D9E75" stroke-width="0.5" stroke-opacity="0.6"/>
+  <text x="51" y="15" font-family="sans-serif" font-size="11" font-weight="500" fill="#5DCAA5" text-anchor="middle">Data Engineer</text>
+</g>
+<g transform="translate(248,156)">
+  <rect width="68" height="22" rx="11" fill="#EF9F27" fill-opacity="0.18" stroke="#EF9F27" stroke-width="0.5" stroke-opacity="0.6"/>
+  <text x="34" y="15" font-family="sans-serif" font-size="11" font-weight="500" fill="#FAC775" text-anchor="middle">FinOps</text>
+</g>
+<g transform="translate(326,156)">
+  <rect width="60" height="22" rx="11" fill="#7F77DD" fill-opacity="0.2" stroke="#7F77DD" stroke-width="0.5" stroke-opacity="0.6"/>
+  <text x="30" y="15" font-family="sans-serif" font-size="11" font-weight="500" fill="#AFA9EC" text-anchor="middle">AI / ML</text>
+</g>
+<rect x="430" y="50" width="216" height="118" rx="10" fill="#FFFFFF" fill-opacity="0.03" stroke="#90CAF9" stroke-width="0.5" stroke-opacity="0.2"/>
+<text x="446" y="72" font-family="sans-serif" font-size="12" font-weight="500" fill="#FFFFFF" fill-opacity="0.85">Open to opportunities</text>
+<rect x="446" y="78" width="184" height="0.5" fill="#90CAF9" fill-opacity="0.2"/>
+<text x="446" y="98" font-family="sans-serif" font-size="11" fill="#90CAF9" fill-opacity="0.75">GCP · AWS</text>
+<text x="446" y="116" font-family="sans-serif" font-size="11" fill="#90CAF9" fill-opacity="0.75">Terraform · Cloud Run</text>
+<text x="446" y="134" font-family="sans-serif" font-size="11" fill="#90CAF9" fill-opacity="0.75">Vertex AI · Gemini Flash</text>
+<text x="446" y="152" font-family="sans-serif" font-size="10" fill="#FFFFFF" fill-opacity="0.35">Freelance · Remote · Worldwide</text>
+<rect x="0" y="190" width="680" height="10" fill="#2C5364" rx="0"/>
+</svg>
 
 </div>
 
@@ -126,8 +173,6 @@ Automated healthcare claims processing pipeline with fraud detection, cost optim
 ![Status](https://img.shields.io/badge/Status-In%20Progress-FFA500?style=flat-square)
 ![Domain](https://img.shields.io/badge/Domain-Healthcare%20%7C%20FinOps-4285F4?style=flat-square)
 
-<!-- Add GitHub repo link when ready -->
-
 </td>
 </tr>
 
@@ -213,12 +258,6 @@ Scalable e-commerce backend with cloud-native architecture, real-time inventory 
 ## 📬 Let's Connect
 
 <div align="center">
-
-<!-- ════════════════════════════════════════════════════════════ -->
-<!-- Replace YOUR_LINKEDIN_URL with your actual LinkedIn URL     -->
-<!-- Replace YOUR_EMAIL with your actual email address           -->
-<!-- Replace YOUR_UPWORK_URL with your actual Upwork profile URL -->
-<!-- ════════════════════════════════════════════════════════════ -->
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_URL)
 [![Email](https://img.shields.io/badge/Email-Hire%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
