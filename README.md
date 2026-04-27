@@ -24,7 +24,7 @@ Focus       : GCP · AWS · Terraform · FinOps · Data Engineering · AI
 
 > *Building scalable cloud infrastructure and intelligent data pipelines that drive real business value.*
 
-I am a Senior Cloud & Data Engineer with **7+ years of hands-on experience** designing, deploying, and optimizing enterprise-grade solutions on **Google Cloud Platform (GCP)** and **AWS**. My expertise spans **FinOps cost optimization**, **real-time data pipelines**, **microservices architecture**, and **AI-powered automation**.
+I am a Senior Cloud & Data Engineer with **7 years of hands-on experience** designing, deploying, and optimizing enterprise-grade solutions on **Google Cloud Platform (GCP)** and **AWS**. My expertise spans **FinOps cost optimization**, **real-time data pipelines**, **microservices architecture**, and **AI-powered automation**.
 
 - 🔭 Currently building: **Healthcare FinOps & Claims Intelligence Platform**
 - 🌐 Open to: **US / UK / EU remote opportunities**
