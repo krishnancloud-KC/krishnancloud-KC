@@ -10,7 +10,7 @@
 ```yaml
 Name        : Krishnan C
 Role        : Senior Cloud & Data Engineer
-Experience  : 7+ Years
+Experience  : 7 Years
 Location    : India 🇮🇳  (Open to Remote / Worldwide)
 Availability: Freelance · Contract · Full-time · Remote
 Focus       : GCP · AWS · Terraform · FinOps · Data Engineering · AI
