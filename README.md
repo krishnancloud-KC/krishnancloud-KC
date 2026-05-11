@@ -105,9 +105,10 @@ Enterprise-grade banking platform with microservices architecture, real-time fra
 
 <td width="50%" valign="top">
 
-### 🔄 &nbsp;IN PROGRESS
+✅  LIVE
+🏥 Healthcare FinOps & Claims Platform
 
-### 🏥 Healthcare FinOps & Claims Platform
+
 **GCP · Cloud Functions · BigQuery · Cloud Scheduler · Python**
 
 Automated healthcare claims processing pipeline with fraud detection, cost optimization automation, and real-time analytics dashboard.
