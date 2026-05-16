@@ -210,8 +210,7 @@ Scalable e-commerce backend with cloud-native architecture, real-time inventory 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/d3e4ce71-8102-4081-b980-561b79a18f47" />
-)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/c-krishnan-640111388/)
 [![Email](https://img.shields.io/badge/Email-Hire%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishnanc.cloudai@gmail.com)
 
 
