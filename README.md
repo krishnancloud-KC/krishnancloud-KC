@@ -210,9 +210,10 @@ Scalable e-commerce backend with cloud-native architecture, real-time inventory 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-Hire%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Upwork](https://img.shields.io/badge/Upwork-Available%20Now-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/YOUR_UPWORK_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/d3e4ce71-8102-4081-b980-561b79a18f47" />
+)
+[![Email](https://img.shields.io/badge/Email-Hire%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishnanc.cloudai@gmail.com)
+
 
 **Open to:** `Freelance` · `Contract` · `Remote Full-time` · `US / UK / EU Clients`
 
